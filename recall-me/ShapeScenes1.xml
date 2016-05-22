@@ -1,0 +1,44 @@
+<Scenes>
+<Scene>    
+<Hexagon lineLength="120">
+    <Colours>
+        <red/>
+        <purple/>
+        <green/>
+        <blue/>
+        <magenta/>
+        <orange/>
+        </brown/>
+    </Colours>
+    <Segments>
+    <Segment ci="0"/>
+    <Segment ci="2"/>
+    <Segment ci="-1" ti="4"/>
+    <Segment ci="3"/>
+    <Segment ci="4"/>
+    <Segment ci="5"/>
+    <Segments/> 
+</Hexagon>
+</Scene>  
+<Scene>    
+    <Hexagon lineLength="120">
+        <Colours>
+            <red/>
+            <purple/>
+            <green/>
+            <blue/>
+            <magenta/>
+            <orange/>
+        </brown/>
+    </Colours>
+    <Segments>
+        <Segment ci="0"/>
+        <Segment ci="2"/>
+        <Segment ci="3"/>
+        <Segment ci="-1" ti="5"/>
+        <Segment ci="4"/>
+        <Segment ci="5"/>
+        <Segments/> 
+    </Hexagon>
+</Scene>      
+</Scenes>

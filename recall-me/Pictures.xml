@@ -1,0 +1,18 @@
+<Pictures>
+    <Picture numQuestions="1">
+        <Image>
+            NY Subway.jpg
+        </Image>    
+        <Question Answer="7">
+            What is the missing number ?
+        </Question>        
+    </Picture>
+    <Picture numQuestions="1">
+        <Image>
+            Greenwich.png
+        </Image>    
+        <Question Answer="Bombay">
+            Which city has a latitude of 72 degrees ?
+        </Question>        
+    </Picture>
+</Pictures>
